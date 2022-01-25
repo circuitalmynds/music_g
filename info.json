@@ -1,6 +1,7 @@
 {
-    "available_space": true,
-    "files": [
+    "available_space": false,
+    "total_size": 1033.8494,
+    "videos": [
         "Bublitchki ~ Ziggy Elman & His Orchestra (1938)-CREiY3pSzRQ.mp4",
         "Pastelarium-XlJgBtoi93w.mp4",
         "Chuy vega Fue Un Placer Conocerte-loCwFxjI5J0.mp4",
@@ -90,7 +91,5 @@
         "Esta Cobardia-o27hTnV5DYk.mp4",
         "Ay Carmela - Viva la Quinta Brigada - Rolando Alarcon-Fko5fYIBJFU.mp4",
         "Chicago - I Don't Wanna Live Without Your Love (Official Music Video)-kGU_-fnSQI8.mp4"
-    ],
-    "id": "g",
-    "total_size": 985.9554531250001
+    ]
 }
