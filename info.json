@@ -254,6 +254,13 @@
             "url": "https://github.com/circuitalmynds/music_g/blob/main/videos/Stratovarius - Future Shock-aDEX1XO9uW0.mp4?raw=true"
         },
         {
+            "id": "T-TYoB-IOJM",
+            "name": "Elenco de Soy Luna - Alas (fin de temporada) ft. Karol Sevilla-T-TYoB-IOJM.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/g/videos/Elenco de Soy Luna - Alas (fin de temporada) ft. Karol Sevilla-T-TYoB-IOJM.mp4",
+            "size": 13.192784,
+            "url": "https://github.com/circuitalmynds/music_g/blob/main/videos/Elenco de Soy Luna - Alas (fin de temporada) ft. Karol Sevilla-T-TYoB-IOJM.mp4?raw=true"
+        },
+        {
             "id": "jnNZPt499KI",
             "name": "Happy Death Men-jnNZPt499KI.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/g/videos/Happy Death Men-jnNZPt499KI.mp4",
@@ -329,6 +336,13 @@
             "path": "/home/alanmatzumiya/Videos/containers/g/videos/Moby - 'In This World' (Official Video)-5wrwcEZ3Btw.mp4",
             "size": 14.260186,
             "url": "https://github.com/circuitalmynds/music_g/blob/main/videos/Moby - 'In This World' (Official Video)-5wrwcEZ3Btw.mp4?raw=true"
+        },
+        {
+            "id": "vww1H1zrA6k",
+            "name": "Today's the Day-vww1H1zrA6k.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/g/videos/Today's the Day-vww1H1zrA6k.mp4",
+            "size": 3.94982,
+            "url": "https://github.com/circuitalmynds/music_g/blob/main/videos/Today's the Day-vww1H1zrA6k.mp4?raw=true"
         },
         {
             "id": "vww1H1zrA6k",
@@ -434,6 +448,13 @@
             "path": "/home/alanmatzumiya/Videos/containers/g/videos/Se Fue Mi Paloma-h1L4KGgq2XY.mp4",
             "size": 6.411486999999999,
             "url": "https://github.com/circuitalmynds/music_g/blob/main/videos/Se Fue Mi Paloma-h1L4KGgq2XY.mp4?raw=true"
+        },
+        {
+            "id": "D82RKffXXRE",
+            "name": "Los Tigres Del Norte - Golpes En El Corazón (Audio)-D82RKffXXRE.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/g/videos/Los Tigres Del Norte - Golpes En El Corazón (Audio)-D82RKffXXRE.mp4",
+            "size": 2.5249699999999997,
+            "url": "https://github.com/circuitalmynds/music_g/blob/main/videos/Los Tigres Del Norte - Golpes En El Corazón (Audio)-D82RKffXXRE.mp4?raw=true"
         },
         {
             "id": "GVSnTZRLbMw",
@@ -653,5 +674,5 @@
             "url": "https://github.com/circuitalmynds/music_g/blob/main/videos/Pastelarium-XlJgBtoi93w.mp4?raw=true"
         }
     ],
-    "total_size": 1035.0424309999999
+    "total_size": 1054.710005
 }
